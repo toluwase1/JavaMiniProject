@@ -11,7 +11,6 @@ package com.decagon;
             this.staffRoom = staffRoom;
         }
 
-
         public void setId(String id){
             this.id = id;
         }
